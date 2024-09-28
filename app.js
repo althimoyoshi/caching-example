@@ -30,6 +30,7 @@ const displayData = (data) => {
 };
 
 //
+//
 
 // Call fetchData when the page loads
 window.onload = fetchData;
